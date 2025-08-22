@@ -1,7 +1,7 @@
 {
     "levelName": "Level_C",
-    "width": 7,
-    "height": 8,
+    "width": 9,
+    "height": 10,
     "goalType": "TimeBased",
     "moveAmount": 12,
     "targetScore": 5000,
@@ -11,79 +11,91 @@
         {
             "x": 0,
             "y": 0,
-            "gemId": "Purple",
-            "hasGlass": false
-        },
-        {
-            "x": 0,
-            "y": 1,
-            "gemId": "Green",
-            "hasGlass": false
-        },
-        {
-            "x": 0,
-            "y": 2,
             "gemId": "Yellow",
             "hasGlass": false
         },
         {
             "x": 0,
+            "y": 1,
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "gemId": "Green",
+            "hasGlass": false
+        },
+        {
+            "x": 0,
             "y": 3,
-            "gemId": "Purple",
+            "gemId": "White",
             "hasGlass": false
         },
         {
             "x": 0,
             "y": 4,
-            "gemId": "Blue",
+            "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 0,
             "y": 5,
-            "gemId": "Blue",
+            "gemId": "Yellow",
             "hasGlass": false
         },
         {
             "x": 0,
             "y": 6,
-            "gemId": "Blue",
+            "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 0,
             "y": 7,
             "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 0,
+            "y": 8,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 0,
+            "y": 9,
+            "gemId": "Yellow",
             "hasGlass": false
         },
         {
             "x": 1,
             "y": 0,
-            "gemId": "Blue",
-            "hasGlass": false
-        },
-        {
-            "x": 1,
-            "y": 1,
-            "gemId": "Yellow",
-            "hasGlass": false
-        },
-        {
-            "x": 1,
-            "y": 2,
-            "gemId": "Blue",
-            "hasGlass": false
-        },
-        {
-            "x": 1,
-            "y": 3,
             "gemId": "White",
             "hasGlass": false
         },
         {
             "x": 1,
-            "y": 4,
+            "y": 1,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 1,
+            "y": 2,
             "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
@@ -95,60 +107,84 @@
         {
             "x": 1,
             "y": 6,
-            "gemId": "Blue",
+            "gemId": "White",
             "hasGlass": false
         },
         {
             "x": 1,
             "y": 7,
-            "gemId": "White",
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 1,
+            "y": 8,
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 1,
+            "y": 9,
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
             "x": 2,
             "y": 0,
-            "gemId": "Purple",
-            "hasGlass": false
-        },
-        {
-            "x": 2,
-            "y": 1,
-            "gemId": "White",
-            "hasGlass": false
-        },
-        {
-            "x": 2,
-            "y": 2,
             "gemId": "Yellow",
             "hasGlass": false
         },
         {
             "x": 2,
-            "y": 3,
+            "y": 1,
             "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 2,
-            "y": 4,
+            "y": 2,
             "gemId": "Purple",
             "hasGlass": false
         },
         {
             "x": 2,
-            "y": 5,
-            "gemId": "White",
+            "y": 3,
+            "gemId": "Yellow",
             "hasGlass": false
         },
         {
             "x": 2,
-            "y": 6,
+            "y": 4,
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 2,
+            "y": 5,
             "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 2,
+            "y": 6,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 2,
             "y": 7,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 2,
+            "y": 8,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 2,
+            "y": 9,
             "gemId": "Blue",
             "hasGlass": false
         },
@@ -161,7 +197,7 @@
         {
             "x": 3,
             "y": 1,
-            "gemId": "Yellow",
+            "gemId": "Blue",
             "hasGlass": false
         },
         {
@@ -173,55 +209,67 @@
         {
             "x": 3,
             "y": 3,
-            "gemId": "White",
-            "hasGlass": false
-        },
-        {
-            "x": 3,
-            "y": 4,
             "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 3,
+            "y": 4,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 3,
             "y": 5,
-            "gemId": "Yellow",
+            "gemId": "Blue",
             "hasGlass": false
         },
         {
             "x": 3,
             "y": 6,
-            "gemId": "Blue",
+            "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 3,
             "y": 7,
-            "gemId": "Blue",
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 3,
+            "y": 8,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 3,
+            "y": 9,
+            "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 4,
             "y": 0,
-            "gemId": "Green",
-            "hasGlass": false
-        },
-        {
-            "x": 4,
-            "y": 1,
             "gemId": "Purple",
             "hasGlass": false
         },
         {
             "x": 4,
+            "y": 1,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 4,
             "y": 2,
-            "gemId": "Yellow",
+            "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 4,
             "y": 3,
-            "gemId": "Blue",
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
@@ -233,79 +281,103 @@
         {
             "x": 4,
             "y": 5,
-            "gemId": "White",
+            "gemId": "Yellow",
             "hasGlass": false
         },
         {
             "x": 4,
             "y": 6,
-            "gemId": "Purple",
+            "gemId": "White",
             "hasGlass": false
         },
         {
             "x": 4,
             "y": 7,
-            "gemId": "Purple",
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 4,
+            "y": 8,
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 4,
+            "y": 9,
+            "gemId": "Yellow",
             "hasGlass": false
         },
         {
             "x": 5,
             "y": 0,
-            "gemId": "Green",
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
             "x": 5,
             "y": 1,
-            "gemId": "Purple",
+            "gemId": "White",
             "hasGlass": false
         },
         {
             "x": 5,
             "y": 2,
-            "gemId": "Purple",
+            "gemId": "White",
             "hasGlass": false
         },
         {
             "x": 5,
             "y": 3,
-            "gemId": "Blue",
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
             "x": 5,
             "y": 4,
-            "gemId": "Green",
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
             "x": 5,
             "y": 5,
-            "gemId": "Yellow",
-            "hasGlass": false
-        },
-        {
-            "x": 5,
-            "y": 6,
             "gemId": "Green",
             "hasGlass": false
         },
         {
             "x": 5,
+            "y": 6,
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 5,
             "y": 7,
-            "gemId": "Yellow",
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 5,
+            "y": 8,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 5,
+            "y": 9,
+            "gemId": "Blue",
             "hasGlass": false
         },
         {
             "x": 6,
             "y": 0,
-            "gemId": "White",
+            "gemId": "Blue",
             "hasGlass": false
         },
         {
             "x": 6,
             "y": 1,
-            "gemId": "Green",
+            "gemId": "Yellow",
             "hasGlass": false
         },
         {
@@ -317,13 +389,13 @@
         {
             "x": 6,
             "y": 3,
-            "gemId": "White",
+            "gemId": "Blue",
             "hasGlass": false
         },
         {
             "x": 6,
             "y": 4,
-            "gemId": "White",
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
@@ -335,13 +407,145 @@
         {
             "x": 6,
             "y": 6,
-            "gemId": "Blue",
+            "gemId": "White",
             "hasGlass": false
         },
         {
             "x": 6,
             "y": 7,
+            "gemId": "Green",
+            "hasGlass": false
+        },
+        {
+            "x": 6,
+            "y": 8,
+            "gemId": "Blue",
+            "hasGlass": false
+        },
+        {
+            "x": 6,
+            "y": 9,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 0,
             "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 1,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 2,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 3,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 4,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 5,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 6,
+            "gemId": "Green",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 7,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 8,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 7,
+            "y": 9,
+            "gemId": "White",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 1,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 2,
+            "gemId": "Green",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 3,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 4,
+            "gemId": "Green",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 6,
+            "gemId": "Green",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 7,
+            "gemId": "Yellow",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 8,
+            "gemId": "Purple",
+            "hasGlass": false
+        },
+        {
+            "x": 8,
+            "y": 9,
+            "gemId": "Blue",
             "hasGlass": false
         }
     ]
