@@ -281,7 +281,7 @@
         {
             "x": 4,
             "y": 5,
-            "gemId": "Yellow",
+            "gemId": "Blue",
             "hasGlass": false
         },
         {
@@ -323,7 +323,7 @@
         {
             "x": 5,
             "y": 2,
-            "gemId": "Purple",
+            "gemId": "Green",
             "hasGlass": false
         },
         {
@@ -431,7 +431,7 @@
         {
             "x": 7,
             "y": 0,
-            "gemId": "Green",
+            "gemId": "Purple",
             "hasGlass": false
         },
         {
@@ -443,7 +443,7 @@
         {
             "x": 7,
             "y": 2,
-            "gemId": "Yellow",
+            "gemId": "Green",
             "hasGlass": false
         },
         {
