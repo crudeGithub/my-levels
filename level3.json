@@ -5,7 +5,7 @@
     "goalType": "TimeBased",
     "moveAmount": 12,
     "targetScore": 5000,
-    "timeLimit": 30.0,
+    "timeLimit": 60.0,
     "activeObjectName": "Aobject",
     "cells": [
         {
